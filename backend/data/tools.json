@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "company": "OpenAI",
+    "category": "Productivity",
+    "rating": 4.8,
+    "users": "180M+",
+    "pricing": "Freemium",
+    "description": "An AI assistant for writing, coding, research, brainstorming, and everyday productivity.",
+    "website": "https://chatgpt.com"
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "company": "Anthropic",
+    "category": "Productivity",
+    "rating": 4.7,
+    "users": "20M+",
+    "pricing": "Freemium",
+    "description": "A thoughtful AI assistant designed for analysis, writing, coding, and complex tasks.",
+    "website": "https://claude.ai"
+  },
+  {
+    "id": 3,
+    "name": "Cursor",
+    "company": "Anysphere",
+    "category": "Coding",
+    "rating": 4.9,
+    "users": "1M+",
+    "pricing": "Paid",
+    "description": "An AI-powered code editor that helps developers write, understand, and improve code faster.",
+    "website": "https://cursor.com"
+  },
+  {
+    "id": 4,
+    "name": "Gemini",
+    "company": "Google",
+    "category": "Research",
+    "rating": 4.7,
+    "users": "400M+",
+    "pricing": "Freemium",
+    "description": "Google's AI assistant for research, reasoning, writing, image understanding, and productivity.",
+    "website": "https://gemini.google.com"
+  },
+  {
+    "id": 5,
+    "name": "Perplexity",
+    "company": "Perplexity AI",
+    "category": "Research",
+    "rating": 4.8,
+    "users": "30M+",
+    "pricing": "Freemium",
+    "description": "An AI-powered search engine that provides direct answers with sources and citations.",
+    "website": "https://perplexity.ai"
+  },
+  {
+    "id": 6,
+    "name": "Midjourney",
+    "company": "Midjourney",
+    "category": "Design",
+    "rating": 4.6,
+    "users": "17M+",
+    "pricing": "Paid",
+    "description": "Create detailed and imaginative images from natural language prompts.",
+    "website": "https://midjourney.com"
+  },
+  {
+    "id": 7,
+    "name": "Runway",
+    "company": "Runway AI",
+    "category": "Video",
+    "rating": 4.6,
+    "users": "10M+",
+    "pricing": "Freemium",
+    "description": "Creative AI tools for generating, editing, and transforming professional video.",
+    "website": "https://runwayml.com"
+  },
+  {
+    "id": 8,
+    "name": "GitHub Copilot",
+    "company": "GitHub",
+    "category": "Coding",
+    "rating": 4.8,
+    "users": "20M+",
+    "pricing": "Paid",
+    "description": "Your AI pair programmer that helps you write code, explain code, and solve development problems.",
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "id": 9,
+    "name": "Canva AI",
+    "company": "Canva",
+    "category": "Design",
+    "rating": 4.5,
+    "users": "190M+",
+    "pricing": "Freemium",
+    "description": "AI-powered design features for presentations, social media, graphics, and visual content.",
+    "website": "https://canva.com"
+  },
+  {
+    "id": 10,
+    "name": "ElevenLabs",
+    "company": "ElevenLabs",
+    "category": "Audio",
+    "rating": 4.7,
+    "users": "5M+",
+    "pricing": "Freemium",
+    "description": "AI voice technology for realistic text-to-speech, voice cloning, and audio generation.",
+    "website": "https://elevenlabs.io"
+  },
+  {
+    "id": 11,
+    "name": "Notion AI",
+    "company": "Notion",
+    "category": "Writing",
+    "rating": 4.5,
+    "users": "100M+",
+    "pricing": "Paid",
+    "description": "AI-powered workspace features for writing, summarizing, organizing, and managing knowledge.",
+    "website": "https://notion.so"
+  },
+  {
+    "id": 12,
+    "name": "v0",
+    "company": "Vercel",
+    "category": "Coding",
+    "rating": 4.8,
+    "users": "2M+",
+    "pricing": "Freemium",
+    "description": "Generate production-ready user interfaces and applications using natural language.",
+    "website": "https://v0.dev"
+  }
+]
