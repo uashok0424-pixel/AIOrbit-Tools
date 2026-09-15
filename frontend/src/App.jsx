@@ -214,8 +214,8 @@ function App() {
         setApiError("");
 
         const [toolsResponse, categoriesResponse] = await Promise.all([
-          fetch("http://localhost:5000/api/tools"),
-          fetch("http://localhost:5000/api/tools/categories"),
+          fetch(`${import.meta.env.VITE_API_URL}/api/tools`),
+          fetch(`${import.meta.env.VITE_API_URL}/api/tools/categories`),
         ]);
 
         if (!toolsResponse.ok || !categoriesResponse.ok) {
